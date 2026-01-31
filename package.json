@@ -1,0 +1,15 @@
+{
+  "name": "it23376236",
+  "version": "1.0.0",
+  "description": "Automated quality assessment of the Swift Translator system using Playwright. This project evaluates Singlish-to-Sinhala transliteration through 34 functional scenarios—covering tenses, complex structures, and mixed-language robustness—alongside UI validation of real-time output synchronization",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
